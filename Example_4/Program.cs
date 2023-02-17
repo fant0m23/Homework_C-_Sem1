@@ -14,13 +14,6 @@ if (b > max)
 {
    max = b;
 }
-else
-{
-   if (c > max)
-   {
-      max = c;
-   }
-}
 if (c > max)
 {
    max = c;

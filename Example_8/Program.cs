@@ -5,25 +5,23 @@
 
 Console.Write("введите число N:  ");
 int N = Convert.ToInt32(Console.ReadLine());
-if(N>1)
+if (N > 1)
 {
    int temp = 2;
-   while(N>=temp)
+   while (N >= temp)
    {
-      if(temp%2==0)
       Console.Write(temp);
       Console.Write(", ");
-      temp+=2;
+      temp += 2;
    }
 }
 else
 {
    int temp = 0;
-   while(N<=temp)
+   while (N <= temp)
    {
-      if(temp%2==0)
       Console.Write(temp);
       Console.Write(", ");
-      temp-=2;
+      temp -= 2;
    }
 }
