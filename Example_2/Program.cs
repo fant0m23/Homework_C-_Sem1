@@ -4,5 +4,17 @@
 // a = 2 b = 10 -> max = 10
 // a = -9 b = -3 -> max = -3
 
-
-Console.WriteLine();
+Console.Write("a = ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("b = ");
+int b = Convert.ToInt32(Console.ReadLine());
+if (a > b)
+{
+   Console.Write("Ответ: max = ");
+   Console.Write(a);
+}
+else
+{
+   Console.Write("Ответ: max = ");
+   Console.Write(b);
+}
