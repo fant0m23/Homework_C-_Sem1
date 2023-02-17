@@ -18,5 +18,12 @@ if(N>1)
 }
 else
 {
-   Console.Write("нет чётных чисел от 1 до N");
+   int temp = 0;
+   while(N<=temp)
+   {
+      if(temp%2==0)
+      Console.Write(temp);
+      Console.Write(", ");
+      temp-=2;
+   }
 }
