@@ -1,4 +1,10 @@
-# Домашняя работа к семинару № 1 по теме: "Знакомство с языками программирования".
+# Работа на семинаре
+## Задача 1:
+...
+
+[Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/draft/Program.cs)
+
+# Домашняя работа к семинару № 1 по теме: "Знакомство с языками программирования"
 
 ## Задача 2:
 Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
@@ -31,7 +37,7 @@ a = -9 b = -3 -> max = -3
 
 [Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/Example_8/Program.cs)
 
-## Дополнительное решение задач:
+# Дополнительное решение задач:
 1. Ввод имени пользователя.  [Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/Example_1/Program.cs)
 2. Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23. [Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/Example_3/Program.cs)
 3. Найти максимальное из 9 чисел с помощью функции. [Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/Example_5/Program.cs)
@@ -48,3 +54,4 @@ a = -9 b = -3 -> max = -3
    * Поиска определенного значения среди элементов массива.
    * Поиска индекса элемента с максимальным значением.
    [Решение](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/Example_11/Program.cs)
+8. Библиотека моих функций [public class MyMethods { }](https://github.com/fant0m23/Homework_C-_Sem1/blob/main/draft/Library.cs)
